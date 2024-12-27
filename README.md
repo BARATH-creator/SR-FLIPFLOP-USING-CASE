@@ -1,4 +1,7 @@
-# SR-FLIPFLOP-USING-CASE
+NAME S BARATH
+REGISTER NUMBER : 24001164
+
+[# SR-FLIPFLOP-USING-CASE
 
 **AIM:**
 
@@ -46,3 +49,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+](https://github.com/BARATH-creator/JKFLIPFLOP-USING-IF-ELSE/blob/main/README.md)
